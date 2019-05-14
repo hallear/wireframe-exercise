@@ -1,0 +1,41 @@
+body {
+  margin: auto;
+  width: 70%;
+}
+
+div.nav img {
+  padding: 30px;
+  margin: auto;
+  width: 44%;
+  height: 30%;
+}
+
+
+
+div.hero img {
+  display: block;
+  margin: auto;
+  width: 94%;
+  padding: 30px;
+}
+
+div.sub img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 27.6%;
+  padding: 30px;
+}
+
+div.featured img{
+  padding: 30px;
+  margin: auto;
+  width: 44%;
+  height: 30%;
+}
+
+footer img {
+  border: 2px solid yellow;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
